@@ -11,4 +11,4 @@ Make sure you have finished setting up BepInEx for your game before following th
     - Note: You can locate your game folder from Steam App
 4. Press F1 (by default) to access the cheats menu. Enjoy :)
 ---
-If you found any bugs or have any suggestions, please let me know at the [issue tab](), thank you.
+If you found any bugs or have any suggestions, please let me know at the [issues tab](), thank you.

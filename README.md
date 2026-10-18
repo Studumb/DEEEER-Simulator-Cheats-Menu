@@ -10,5 +10,11 @@ Make sure you have finished setting up BepInEx for your game before following th
 3. Locate your game folder, in your game folder go to `BepInEx` -> `plugins` and move the `.dll` file into this folder
     - Note: You can locate your game folder from Steam App
 4. Press F1 (by default) to access the cheats menu. Enjoy :)
+### Features
+Currently, the mod is packed with these features:
+- Equip all weapons
+- Invincibility
+- Teleport  
+And more to be added
 ---
 If you found any bugs or have any suggestions, please let me know at the [issues tab](https://github.com/Studumb/DSim-Cheats-Menu/issues), thank you.

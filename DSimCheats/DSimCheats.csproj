@@ -1,0 +1,42 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+	  <AssemblyName>DSimCheats</AssemblyName>
+    <Nullable>enable</Nullable>
+    <BaseOutputPath>D:\Games\DEEEER.Simulator.Your.Average.Everyday.Deer.Game.v6.4.0\BepInEx\plugins\DSimCheats</BaseOutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BepInEx.Analyzers" Version="1.0.8" />
+    <PackageReference Include="BepInEx.Core" Version="5.4.21" />
+    <PackageReference Include="BepInEx.PluginInfoProps" Version="2.1.0" />
+    <PackageReference Include="UnityEngine.Modules" Version="2020.3.0.46406">
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Arbor.BuiltInBehaviours">
+      <HintPath>..\..\..\Games\DEEEER.Simulator.Your.Average.Everyday.Deer.Game.v6.4.0\DEEEER Simulator_Data\Managed\Arbor.BuiltInBehaviours.dll</HintPath>
+    </Reference>
+    <Reference Include="Assembly-CSharp">
+      <HintPath>..\..\..\Games\DEEEER.Simulator.Your.Average.Everyday.Deer.Game.v6.4.0\DEEEER Simulator_Data\Managed\Assembly-CSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Assembly-CSharp-firstpass">
+      <HintPath>..\..\..\Games\DEEEER.Simulator.Your.Average.Everyday.Deer.Game.v6.4.0\DEEEER Simulator_Data\Managed\Assembly-CSharp-firstpass.dll</HintPath>
+    </Reference>
+    <Reference Include="Sirenix.Serialization">
+      <HintPath>..\..\..\Games\DEEEER.Simulator.Your.Average.Everyday.Deer.Game.v6.4.0\DEEEER Simulator_Data\Managed\Sirenix.Serialization.dll</HintPath>
+    </Reference>
+    <Reference Include="Sirenix.Serialization.Config">
+      <HintPath>..\..\..\Games\DEEEER.Simulator.Your.Average.Everyday.Deer.Game.v6.4.0\DEEEER Simulator_Data\Managed\Sirenix.Serialization.Config.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>..\..\..\Games\DEEEER.Simulator.Your.Average.Everyday.Deer.Game.v6.4.0\DEEEER Simulator_Data\Managed\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>..\..\..\Games\DEEEER.Simulator.Your.Average.Everyday.Deer.Game.v6.4.0\DEEEER Simulator_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

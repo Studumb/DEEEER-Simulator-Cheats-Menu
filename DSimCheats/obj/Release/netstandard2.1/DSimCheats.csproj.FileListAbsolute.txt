@@ -1,0 +1,12 @@
+D:\Games\DEEEER.Simulator.Your.Average.Everyday.Deer.Game.v6.4.0\BepInEx\plugins\DSimCheats\Release\netstandard2.1\DSimCheats.deps.json
+D:\Games\DEEEER.Simulator.Your.Average.Everyday.Deer.Game.v6.4.0\BepInEx\plugins\DSimCheats\Release\netstandard2.1\DSimCheats.dll
+D:\Games\DEEEER.Simulator.Your.Average.Everyday.Deer.Game.v6.4.0\BepInEx\plugins\DSimCheats\Release\netstandard2.1\DSimCheats.pdb
+D:\DSimMod\DSimCheats\DSimCheats\obj\Release\netstandard2.1\DSimCheats.csproj.AssemblyReference.cache
+D:\DSimMod\DSimCheats\DSimCheats\obj\Release\netstandard2.1\MyPluginInfo.cs
+D:\DSimMod\DSimCheats\DSimCheats\obj\Release\netstandard2.1\DSimCheats.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSimMod\DSimCheats\DSimCheats\obj\Release\netstandard2.1\DSimCheats.AssemblyInfoInputs.cache
+D:\DSimMod\DSimCheats\DSimCheats\obj\Release\netstandard2.1\DSimCheats.AssemblyInfo.cs
+D:\DSimMod\DSimCheats\DSimCheats\obj\Release\netstandard2.1\DSimCheats.csproj.CoreCompileInputs.cache
+D:\DSimMod\DSimCheats\DSimCheats\obj\Release\netstandard2.1\DSimCheats.csproj.Up2Date
+D:\DSimMod\DSimCheats\DSimCheats\obj\Release\netstandard2.1\DSimCheats.dll
+D:\DSimMod\DSimCheats\DSimCheats\obj\Release\netstandard2.1\DSimCheats.pdb

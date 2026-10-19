@@ -1,4 +1,4 @@
-# DSim Cheats Menu
+# DEEEER Simulator Cheats Menu
 A cheats menu mod for the game DEEEER Simulator.
 ### Requirements
 - [BepInEx](https://github.com/bepinex/bepinex) (Mod loader)
